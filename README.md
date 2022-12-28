@@ -14,3 +14,11 @@ We got our dataset from the H&M competition “H&M Personalized Fashion Recommen
 • What is the best approach to recommend new items?
 ## Modelling
 ![](https://github.com/nooshinmn/H-M_Recommendation-System/blob/main/Models_Readme.jpg?raw=true)
+### Content-based filtering recommender systems
+The first recommender system is based on the content. It focuses on the content of the product itself without considering any information from the user.
+### Collaborative filtering recommender systems (User-Item)
+This system is based on the observation of user behavior and it classifies users and items into specific groups. This prediction can be made by taking into account consumer choices in the past and their resemblance to others.
+
+# Authors
+Nooshin Mollazadeh
+Linkedin: www.linkedin.com/in/nooshinmol
