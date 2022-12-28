@@ -13,4 +13,4 @@ We got our dataset from the H&M competition “H&M Personalized Fashion Recommen
 
 • What is the best approach to recommend new items?
 ## Modelling
-!(https://github.com/nooshinmn/H-M_Recommendation-System/blob/main/Models_Readme.jpg)
+![](https://github.com/nooshinmn/H-M_Recommendation-System/blob/main/Models_Readme.jpg?raw=true)
